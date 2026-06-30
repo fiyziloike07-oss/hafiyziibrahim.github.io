@@ -351,7 +351,7 @@ function activateEdith(){
     alert("E.D.I.T.H activated. Tactical disaster intelligence online.");
 }
 </script>
-
+<elevenlabs-convai agent-id="agent_5101kwbqaggxfnwbkyqbj9z5wy1f"></elevenlabs-convai><script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
 </body>
 </html>
 ```
